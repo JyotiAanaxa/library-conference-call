@@ -44,7 +44,7 @@ video {
 }
 .main__controls__blocks {
     display: flex;
-    margin-left: 331px;
+    margin-left: 377px;
 }
 .main__controls__button {
     display: flex;
@@ -104,4 +104,11 @@ video {
 .message-li {
     color: #f5f5f5;
     list-style: none;
+}
+.heading{
+    color: #fff;
+    background: #020202;
+    text-align: center;
+    padding-top: 12px;
+    letter-spacing: 2px;
 }
